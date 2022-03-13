@@ -5,3 +5,4 @@ learning gitflow of branch
 #### develop init
 #### feature/file init
 #### feature/file exit
+#### release/file init
