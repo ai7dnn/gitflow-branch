@@ -6,3 +6,4 @@ learning gitflow of branch
 #### feature/file init
 #### feature/file exit
 #### release/file init
+#### release/file exit
